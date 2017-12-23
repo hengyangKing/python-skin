@@ -2,9 +2,8 @@
 #epoll 相较于  select 版本 没有数量上限 更不采用轮询机制来完成检测 
 #而使用更高级的事件通知机制
 # 
-import socket 
-import select 
-
+import select
+from socket import *
 def main():
 		socket = socket.socket(AF_INET,SOCK_STREAM);
 		socket.setsockopt(SOL_SOCKET,SO_REUSEADDR);

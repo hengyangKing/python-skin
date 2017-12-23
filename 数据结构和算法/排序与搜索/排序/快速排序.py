@@ -16,7 +16,7 @@ def quick_sort(list,first,last):
             high -= 1
             """跳出循环发现满足 高低位指针重合或者高位指针指向数值<=mid_value 交换高低位指针数据"""
         list[low] = list[high]
-        """右移地位指针"""
+        """右移低位指针"""
         while low<high and list[low]<mid_value:
             low += 1
         """同上"""
