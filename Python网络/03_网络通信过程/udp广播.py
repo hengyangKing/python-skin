@@ -1,5 +1,7 @@
 #coding=utf-8
-import socket,sys
+
+import sys
+from socket import *
 #单播 点对点
 #多播 一对多
 #广播 一对所有

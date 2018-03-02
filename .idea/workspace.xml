@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3445d5b0-0ac6-47aa-a5f8-f0ccb8a491d6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python网络/01_udp_for_socket/socket.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/python.iml" afterPath="$PROJECT_DIR$/.idea/python.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python网络/01_udp_for_socket/多线程聊天.py" afterPath="$PROJECT_DIR$/Python网络/01_udp_for_socket/多线程聊天.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python网络/03_网络通信过程/udp广播.py" afterPath="$PROJECT_DIR$/Python网络/03_网络通信过程/udp广播.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python网络/04_TCP_server/epoll版本Tcp_server.py" afterPath="$PROJECT_DIR$/Python网络/04_TCP_server/epoll版本Tcp_server.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/数据结构和算法/二叉树/fork_tree.py" afterPath="$PROJECT_DIR$/数据结构和算法/二叉树/fork_tree.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/数据结构和算法/排序与搜索/排序/快速排序.py" afterPath="$PROJECT_DIR$/数据结构和算法/排序与搜索/排序/快速排序.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,52 +19,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="udp协议绑定信息和接收数据.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python网络/01_udp_for_socket/udp协议绑定信息和接收数据.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tcp_client.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python网络/03_网络通信过程/tcp_client.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="多线程聊天.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python网络/01_udp_for_socket/多线程聊天.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3">
-              <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-              <folding>
-                <element signature="e#16#36#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="01_static_web_server.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python网络/05_web服务器(http协议)/01_static_web_server.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding>
-                <element signature="e#15#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -112,9 +62,10 @@
         <option value="$PROJECT_DIR$/数据结构和算法/二叉树/The_fork_tree.py" />
         <option value="$PROJECT_DIR$/数据结构和算法/二叉树/fork_tree.py" />
         <option value="$PROJECT_DIR$/数据结构和算法/面试题目.py" />
-        <option value="$PROJECT_DIR$/Python网络/04_TCP_server/epoll版本Tcp_server.py" />
         <option value="$PROJECT_DIR$/Python网络/01_udp_for_socket/socket.py" />
         <option value="$PROJECT_DIR$/Python网络/01_udp_for_socket/多线程聊天.py" />
+        <option value="$PROJECT_DIR$/Python网络/03_网络通信过程/udp广播.py" />
+        <option value="$PROJECT_DIR$/Python网络/04_TCP_server/epoll版本Tcp_server.py" />
       </list>
     </option>
   </component>
@@ -165,6 +116,60 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="数据结构和算法">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="python_skin">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="数据结构和算法">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="排序与搜索">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="python_skin">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="数据结构和算法">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="排序与搜索">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="排序">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="python_skin">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="Python网络">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
@@ -183,7 +188,7 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="01_udp_for_socket">
+            <PATH_ELEMENT USER_OBJECT="04_TCP_server">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -564,14 +569,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="708" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="708" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28917608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28917608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19480519" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -610,28 +614,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/数据结构和算法/链表/双向链表.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="72" column="42" lean-forward="false" selection-start-line="72" selection-start-column="37" selection-end-line="72" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构和算法/排序与搜索/选择排序.py" />
-    <entry file="file://$PROJECT_DIR$/数据结构和算法/排序与搜索/冒泡排序.py" />
-    <entry file="file://$PROJECT_DIR$/数据结构和算法/排序与搜索/归并排序.py" />
-    <entry file="file://$PROJECT_DIR$/数据结构和算法/排序与搜索/快速排序.py" />
-    <entry file="file://$PROJECT_DIR$/数据结构和算法/排序与搜索/希尔排序.py" />
-    <entry file="file://$PROJECT_DIR$/数据结构和算法/排序与搜索/插入算法.py" />
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构和算法/二叉树/二叉树.py" />
-    <entry file="file://$PROJECT_DIR$/数据结构和算法/二叉树/The_fork_tree.py" />
     <entry file="file://$PROJECT_DIR$/数据结构和算法/排序与搜索/搜索/二分查找.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
@@ -871,18 +853,38 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/数据结构和算法/面试题目.py" />
-    <entry file="file://$PROJECT_DIR$/Python网络/03_网络通信过程/tcp_client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python网络/01_udp_for_socket/socket.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python网络/01_udp_for_socket/多线程聊天.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+          <folding>
+            <element signature="e#16#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python网络/05_web服务器(http协议)/01_static_web_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#15#35#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python网络/03_网络通信过程/tcp_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
           <folding />
         </state>
       </provider>
@@ -895,33 +897,93 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Python网络/03_网络通信过程/udp广播.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="e#15#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python网络/03_网络通信过程/tcp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构和算法/排序与搜索/排序/快速排序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="26" column="31" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构和算法/排序与搜索/排序/希尔排序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构和算法/排序与搜索/排序/插入算法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构和算法/排序与搜索/排序/选择排序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构和算法/排序与搜索/排序/归并排序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构和算法/排序与搜索/排序/冒泡排序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Python网络/04_TCP_server/epoll版本Tcp_server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-609">
-          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-          <folding>
-            <marker date="1513923907395" expanded="true" signature="76:89" ph="import ..." />
-          </folding>
+        <state relative-caret-position="345">
+          <caret line="58" column="28" lean-forward="false" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python网络/05_web服务器(http协议)/01_static_web_server.py">
+    <entry file="file://$PROJECT_DIR$/Python网络/03_网络通信过程/tcp_server窥探.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="e#15#35#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="288">
+          <caret line="16" column="33" lean-forward="false" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python网络/01_udp_for_socket/多线程聊天.py">
+    <entry file="file://$PROJECT_DIR$/Python网络/01_udp_for_socket/udp协议本地聊天室/echo_回声服务器.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3">
-          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-          <folding>
-            <element signature="e#16#36#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="306">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
